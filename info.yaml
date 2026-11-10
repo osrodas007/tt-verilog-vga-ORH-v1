@@ -1,10 +1,10 @@
 
 # Tiny Tapeout project information
 project:
-  title:        ""      tt_um_vga_osrodas007-ttv1
-  author:       ""      Oscar Rodas
+  title:        "tt_um_vga_osrodas007-ttv1"      
+  author:       "Oscar Rodas"      
   discord:      ""      
-  description:  ""      1st project to evaluate the manufacture of a CI with TT
+  description:  "1st project to evaluate the manufacture of a CI with TT"      
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     25175000       # Clock frequency in Hz (or 0 if not applicable)
 
