@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It is a VGA test that will create an horizontal movement. Graphics were changed from template.
 
 ## How to test
 
-Explain how to use your project
+Connected to a VGA port.
 
 ## External hardware
 
